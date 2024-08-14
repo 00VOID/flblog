@@ -1,0 +1,23 @@
+---
+layout: base.njk
+---
+
+<body class="post">
+    <header>
+        <script>
+            var currentPageUrl = "{{ data.page.url }}";
+            var backLink = currentPageUrl === '/blog/'
+                ? '/'
+                : (
+                    currentPageUrl.startsWith('/blog/')
+                    ? '/blog/'
+                    : '/');
+        </script>
+
+        <a href="#" onclick="window.location.href = backLink;">&larr; back</a>
+    </header>
+
+    <main>
+        {{ content | safe }}
+    </main>
+</body>
