@@ -26,7 +26,7 @@ The group made their way to the Three Skulls, Yawim’s tavern, where they had f
 
 “Ah, my friends!” Yawim called out, wiping his hands on his apron. “I see you’ve been making yourselves at home in our little village. What brings you back to my doorstep today?”
 
-Bomtom stepped forward, his usual confidence shining through. “We’ve been thinking about our next move, Yawim. We were part of a caravan heading west before we got waylaid, and we’re looking for a way to complete our journey. We were wondering if you might help us by offering passage on one of your boats. In return, we could help you spread word of your fine ales to other towns.”
+Hyrne stepped forward, his quiet confidence shining through. “We’ve been thinking about our next move, Yawim. We were part of a caravan heading west before we got waylaid, and we’re looking for a way to complete our journey. We were wondering if you might help us by offering passage on one of your boats. In return, we could help you spread word of your fine ales to other towns.”
 
 Yawim’s eyes gleamed with interest. “Traveling on my boats, eh? That would certainly put the rattlers up Mrs. Pollmor! I like it. We’ve got three main trade routes from here: one heads north-west to Lake Varda, another east to a village there, and the last goes south to a place called the Wash—an outpost for the Rust Brothers. They’re not the friendliest folk, but they do buy a barrel or two from me.”
 
