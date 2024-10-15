@@ -6,7 +6,7 @@ layout: page.njk
 ---
 ### Leaving The Hollows
 
-The grey dawn broke across the wild, broken hills of the Forbidden Lands, casting long shadows that twisted like reaching claws across the desolate ground. The party, weary from their journey and the growing tension in the Hollows, had ventured once again into the wilderness. Behind them, Yarwin’s grim confession still echoed in their minds—he was a dwarf, hunted by his own kin for betraying the sacred art of dwarven brewing. But even this revelation paled in comparison to what awaited them.
+The grey dawn broke across the wild, broken hills of the Forbidden Lands, casting long shadows that twisted like reaching claws across the desolate ground. The party, weary from their journey and the growing tension in the Hollows, had ventured once again into the wilderness. Behind them, Yarwim’s grim confession still echoed in their minds—he was a dwarf, hunted by his own kin for betraying the sacred art of dwarven brewing. But even this revelation paled in comparison to what awaited them.
 
 Their destination loomed ahead, sinister and silent: the Tower of Varda, crumbling and overgrown, long abandoned by the sorcerer who once ruled within its ancient walls. Rumors of untold treasure whispered through the wilds, a siren’s call that pulled them toward danger.
 
