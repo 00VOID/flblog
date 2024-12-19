@@ -40,6 +40,42 @@ The adventurers bristled at his detachment. His parting words, though directed a
 
 With a final tap of his staff, Sturkas disappeared into the twilight. His indifference left the party unsettled, but Yarwim, visibly shaken, needed their support. They guided him back to the inn, vowing not to let such violence threaten him again.
 
+### Retail Therapy
+
+The companions approached the blacksmith’s forge, the air thick with the tang of burning coal and the rhythmic clang of hammer on metal. The smith, a broad-shouldered man with soot-streaked features and a no-nonsense demeanor, looked up as they arrived.
+
+"Well, what have you got for me?" he grunted, wiping his hands on a rag.
+
+Hyrne stepped forward, holding his battered studded leather cap. "This needs fixing. Took a few knocks in the tunnels."
+
+The smith examined the cap briefly. "Two silver. It'll take me a day to get it back in shape."
+
+Next, Torvin placed his chainmail on the counter, the rings still bent and torn from a previous battle. The blacksmith whistled low. "This one’s seen better days. That’ll take a week—six silver if you want it done right."
+
+Galivan added his long spear to the pile. "Just a small notch here. Shouldn’t take much, right?"
+
+"Aye, one silver and a day,” the blacksmith agreed, marking the spear with a piece of chalk.
+
+Satisfied with the terms, the group pooled their coins and handed over the payment. The blacksmith nodded, already organizing the tools and materials he’d need for the work.
+
+"You’ll have your gear as good as new. Come back then," he said, turning back to his forge as the companions departed.
+
+Later, they made their way to the gamekeeper’s modest hut on the edge of the village. Vike, a wiry man with sun-worn skin and an unkempt beard, was stretching a deer hide on a wooden rack. Rabbits dangled from hooks by the door, their pelts patchy but the meat still usable.
+
+"Got anything for sale?" Torvin asked, stepping forward.
+
+Vike barely looked up, his voice gruff. "Couple of rabbits. Two copper apiece."
+
+"That’s it?" Hyrne muttered under his breath, though the group knew game had been scarce of late.
+
+Galivan handed over the coins without argument. "We’ll take them."
+
+Vike nodded curtly, his attention already back on the deer hide. As they collected the rabbits, Hyrne tried to engage him further. "Hunting must be tough this season."
+
+"Always is," Vike said, offering no more.
+
+The companions exchanged glances, realizing any further conversation would be met with the same terse replies. They departed, taking the rabbits to add to their dwindling supplies, grateful for even this modest addition.
+
 ### The Opening of the Tomb
 
 With Yarwim resting under their watchful protection, the group turned their attention to an old tale shared by Nirvea, the village herbalist. It spoke of Count Nepola, a nobleman betrayed by Zygofer, and the crypt where his spirit and those of his family were bound in undeath. The adventurers suspected that the tomb might hold not only treasure but answers to The Hollows’ restless dead.
