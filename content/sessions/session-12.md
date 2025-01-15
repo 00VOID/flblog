@@ -24,7 +24,7 @@ By morning, the dwarves have vanished, their work complete. The adventurers pres
 
 On one damp, wind-swept night, their makeshift camp struggles to keep out the chill. The winds carry an acrid scent of burning meat, waking the group to an eerie sensation of foreboding. The ground begins to tremble, and heavy footsteps approach with a metallic clatter and screech.
 
-Emerging from the gloom is a hulking figure clad in rust-black armour, its breastplate adorned with a sigil hammered into the corroded metal. A massive sword, tinged with dried blood, rests at its side. The knight is a nightmare made manifest, motionless yet radiating menace. Torvin alone recognises the sigil as that of the god Rust, but he remains silent, his mind racing with the implications of such an encounter.
+Emerging from the gloom is a hulking figure clad in rust-black armour, its breastplate adorned with a sigill hammered into the corroded metal. A massive sword, tinged with dried blood, rests at its side. The knight is a nightmare made manifest, motionless yet radiating menace. Torvin alone recognises the sigil as that of the god Rust, but he remains silent, his mind racing with the implications of such an encounter.
 
 The creature makes no move to attack. Its head turns with a grinding sound, observing the group before slowly retreating into the darkness, leaving behind a heavy silence and a lingering sense of dread.
 
