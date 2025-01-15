@@ -1,5 +1,5 @@
 ---
-tags: session
+tags: [session]
 title: "Session 7 - The Dwarves’ Pursuit: Secrets Beneath Hollow Skies"
 date: 2024-10-08
 layout: page.njk

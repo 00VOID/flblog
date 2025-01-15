@@ -1,5 +1,5 @@
 ---
-tags: session
+tags: [session]
 title: Session 2 - Unveiling The Hollows' Secrets
 date: 2024-07-16
 layout: page.njk

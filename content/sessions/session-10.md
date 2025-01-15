@@ -1,5 +1,5 @@
 ---
-tags: session
+tags: [session]
 title: "Session 10 - The Woes of Flames and Riddles"
 date: 2024-12-02
 layout: page.njk

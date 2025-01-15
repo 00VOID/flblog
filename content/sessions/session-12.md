@@ -1,6 +1,6 @@
 ---
-tags: session
-title: "Session 11 - The Rusted Sentinel and the Fox's Song"
+tags: [session]
+title: "Session 12 - The Rusted Sentinel and the Fox's Song"
 date: 2025-01-15
 layout: page.njk
 ---
