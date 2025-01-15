@@ -1,5 +1,5 @@
 ---
-tags: session
+tags: [session]
 title: "Session 5 - The Flames of Betrayal"
 date: 2024-08-27
 layout: page.njk

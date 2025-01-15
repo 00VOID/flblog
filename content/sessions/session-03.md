@@ -1,5 +1,5 @@
 ---
-tags: session
+tags: [session]
 title: Session 3 - Whispers of the Dead, Echoes of Conflict
 date: 2024-07-30
 layout: page.njk

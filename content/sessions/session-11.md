@@ -1,5 +1,5 @@
 ---
-tags: session
+tags: [session]
 title: "Session 11 - Echoes of the Cursed and the Bound"
 date: 2024-12-18
 layout: page.njk

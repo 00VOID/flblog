@@ -1,6 +1,6 @@
 ---
-tags: session
-title: "Session 11 - The Rusted Sentinel and the Fox's Song"
+tags: [session]
+title: "Session 12 - The Rusted Sentinel and the Fox's Song"
 date: 2025-01-15
 layout: page.njk
 ---
@@ -10,7 +10,7 @@ Having bid farewell to the recovering Yarwim and the modest security of the Holl
 
 The river serves as their guide, its winding course pulling them into uncharted territory. The landscape transitions from rolling hills to level plains, dotted with patches of wilderness. Each quarter-day is marked by methodical exploration: Hyrne expertly leads the way with the aid of his Pathfinder training, while Torvin’s horse offers sharp eyes to assist in scouting. Aran and Galivan alternate between foraging and keeping watch, and their efforts yield modest spoils of vegetables and fish.
 
-The journey is not without its challenges. Galivan’s attempts at fishing leave him wounded when his hook finds his finger instead of a catch, drawing frustrated laughter from the group. Despite this mishap, the supplies begin to build, providing a sense of hard-earned security.
+The journey is not without its challenges. Aran’s attempts at fishing leave him wounded when his hook finds his finger instead of a catch, drawing frustrated laughter from the group. Despite this mishap, the supplies begin to build, providing a sense of hard-earned security.
 
 ### The Towering Obelisk and the Dwarves
 

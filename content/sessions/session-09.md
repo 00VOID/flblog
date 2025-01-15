@@ -1,5 +1,5 @@
 ---
-tags: session
+tags: [session]
 title: "Session 9 - The Shattered Path and the Tower’s Secrets"
 date: 2024-11-20
 layout: page.njk

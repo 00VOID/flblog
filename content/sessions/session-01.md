@@ -1,5 +1,5 @@
 ---
-tags: session
+tags: [session]
 title: Session 1 - A Desperate Arrival in The Hollows
 date: 2024-07-02
 layout: page.njk

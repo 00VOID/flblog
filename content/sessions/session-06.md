@@ -1,5 +1,5 @@
 ---
-tags: session
+tags: [session]
 title: "Session 6 - Bandits, Blood, and Dark Omens"
 date: 2024-09-04
 layout: page.njk

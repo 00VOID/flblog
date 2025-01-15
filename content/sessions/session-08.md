@@ -1,5 +1,5 @@
 ---
-tags: session
+tags: [session]
 title: "Session 8 - The Horns of Fate: Death at the Tower of Varda"
 date: 2024-10-15
 layout: page.njk

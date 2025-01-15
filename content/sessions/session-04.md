@@ -1,5 +1,5 @@
 ---
-tags: session
+tags: [session]
 title: "Session 4 - Springrise Revelry: Secrets and Ale"
 date: 2024-08-13
 layout: page.njk
