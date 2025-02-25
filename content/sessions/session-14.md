@@ -9,7 +9,7 @@ layout: page.njk
 
 The oppressive weight of the house bore down upon them as they gathered in the dimly lit hall. Shadows stretched unnaturally across the wooden floor, flickering against the stone walls as the dying embers in the hearth cast their feeble glow. Lord Kelgar’s home, once known for its grand hunting feasts, now reeked of decay and loss, its corridors echoing with the whispers of curses left to fester.
 
-Torvin, ever watchful, stood near the door, his rough features set in grim determination. Aran, his sharp mind keen on the mysteries at hand, cast a glance toward the aged housekeeper, Alara, whose trembling fingers clutched at the frayed hem of her apron. Hyrne and Galivan exchanged wary glances, the weight of the grimoires they had studied still pressing upon their thoughts. The ritual was clear—Lord Kelgar's affliction, the curse that bound him to something beyond the mortal world, could be undone. But at what cost?
+Torvin, ever watchful, stood near the door, his rough features set in grim determination. Aran, his sharp mind keen on the mysteries at hand, cast a glance toward the aged housekeeper, Elara, whose trembling fingers clutched at the frayed hem of her apron. Hyrne and Galivan exchanged wary glances, the weight of the grimoires they had studied still pressing upon their thoughts. The ritual was clear—Lord Kelgar's affliction, the curse that bound him to something beyond the mortal world, could be undone. But at what cost?
 
 The old woman’s voice quavered as she pleaded with them. _"You must help him, not harm him. Whatever he has become, he is still a good man."_
 
@@ -19,7 +19,7 @@ A decision had to be made.
 
 ### Descent into Darkness
 
-The trapdoor groaned as it was pulled open, revealing a narrow wooden staircase descending into the cellar. The air below was thick with damp and the musk of old stone, the scent of decay mingling with something feral. Alara hesitated at the threshold, eyes wet with fear.
+The trapdoor groaned as it was pulled open, revealing a narrow wooden staircase descending into the cellar. The air below was thick with damp and the musk of old stone, the scent of decay mingling with something feral. Elara hesitated at the threshold, eyes wet with fear.
 
 _“The light… it pains his eyes,”_ she murmured. _“When his episodes come, he locks himself away, afraid of what he might do.”_
 
@@ -33,7 +33,7 @@ Galivan stepped forward, raising the hilt of his sword. The clang of steel again
 
 A voice, hoarse and broken, slithered from the darkness.
 
-_"Alara...? How long have I been here?"_
+_"Elara...? How long have I been here?"_
 
 Torvin hesitated. _"She sent us to speak with you."_
 
@@ -59,9 +59,9 @@ _"I am willing."_
 
 Kelgar extended a trembling hand through the bars, his expression weary but resolute.
 
-_"May I speak with Alara first?"_
+_"May I speak with Elara first?"_
 
-Hyrne had already turned to fetch her before anyone else could react. The woman descended cautiously, her breath hitching as she took in Kelgar’s gaunt figure. Their conversation was hushed, their words lost to the thick air of the cellar. But when Alara stepped away, her face was pale with sorrow.
+Hyrne had already turned to fetch her before anyone else could react. The woman descended cautiously, her breath hitching as she took in Kelgar’s gaunt figure. Their conversation was hushed, their words lost to the thick air of the cellar. But when Elara stepped away, her face was pale with sorrow.
 
 _"We can begin."_
 
@@ -71,7 +71,7 @@ Galivan took the dagger and sliced his palm. The blood dripped onto the cold sto
 
 _"That is a pitiful amount… that would not turn a cub."_
 
-Galivan hesitated. Then, before anyone could react, Alara stepped forward.
+Galivan hesitated. Then, before anyone could react, Elara stepped forward.
 
 With a swift, final motion, she snatched the dagger from his grasp, fell to her knees, and slit her own throat.
 
@@ -125,7 +125,7 @@ And Galivan...
 
 Galivan sank to his knees, sweat dripping from his brow, the weight of failure crashing down upon him like a collapsing temple. His breath came in short, shallow gasps. He had spent everything—every ounce of knowledge, every fragment of power. And still, he had failed.
 
-His gaze darted wildly around the chamber. The blood-soaked stone floor. The corpse of Alara, her sacrifice now seemingly in vain. The flickering lantern, casting long shadows over the writhing, transforming Kelgar.
+His gaze darted wildly around the chamber. The blood-soaked stone floor. The corpse of Elara, her sacrifice now seemingly in vain. The flickering lantern, casting long shadows over the writhing, transforming Kelgar.
 
 He had failed.
 
@@ -195,7 +195,7 @@ It was over.
 
 ### Aftermath and a Fading Legacy
 
-The house stood quieter than it had in decades. The air, once thick with unseen malice, was now still. They buried Alara in the grounds, her sacrifice etched into the history of the land.
+The house stood quieter than it had in decades. The air, once thick with unseen malice, was now still. They buried Elara in the grounds, her sacrifice etched into the history of the land.
 
 Kelgar, now a frail shadow of himself, left soon after. _“This house is no longer mine,”_ he murmured. _“I must begin anew.”_
 
