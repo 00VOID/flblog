@@ -203,7 +203,7 @@ Torvin, Aran, Hyrne, and Galivan watched him go.
 
 The house remained, abandoned, waiting.
 
-A ruin in the making. Not yet the stronghold they sought.
+A ruin in the making. Still not the stronghold they sought.
 
 And as the dawn broke over the horizon, the last words Kelgar had spoken lingered.
 
