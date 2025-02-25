@@ -29,7 +29,7 @@ Then they found it.
 
 Opposite a crude shrine littered with folk talismans—a desperate attempt at warding—stood a prison of thick iron bars. The scent of wet fur, of sweat and primal rage, clung to the air. Within the cage, a shape lay curled, its breath rasping, low and human.
 
-Galivan stepped forward, raising the hilt of his sword. The clang of steel against metal rang out like a war drum in the silence.
+Torvin stepped forward, raising the hilt of his sword. The clang of steel against metal rang out like a war drum in the silence.
 
 A voice, hoarse and broken, slithered from the darkness.
 
