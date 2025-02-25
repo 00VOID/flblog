@@ -91,12 +91,6 @@ The struggle was immense, the wolf-thing snarling as its limbs twisted, flickeri
 
 Then came the final invocation. The words that would sever the spirit’s grip forever.
 
-Galivan spoke, but the magic faltered. His voice cracked, the syllables lost to exhaustion. The spell slipped through his grasp.
-
-Kelgar’s form shuddered, the beast howling in triumph.
-
-Then—clarity.
-
 ### Blood and Shadow: The Ritual’s Climax
 
 The cellar walls seemed to press inward as the ritual reached its peak. The air crackled with unseen forces, and the very shadows seemed to stretch and coil, drawn to the beast that was both Kelgar and something far more monstrous.
