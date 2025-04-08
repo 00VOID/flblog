@@ -5,7 +5,7 @@ date: 2025-03-11
 layout: page.njk
 ---
 
-#### The Lake Turns to Rot
+### The Lake Turns to Rot
 
 The morning was bleak when Torvin, Aran, Hyrne, and Galivan gathered on the rocky shoreline of the lake. They had lingered too long in the abandoned house, resting, healing, hoping for respite after breaking the curse of the spectral wolf. But the world does not grant such mercy in the Forbidden Lands.
 
@@ -19,7 +19,7 @@ The group stood at the river’s mouth, where the slow-moving current carried th
 
 It did not take long for them to decide. They would follow the corruption upstream.
 
-#### Smoke and Vultures
+### Smoke and Vultures
 
 The sky darkened as they traveled. Thick clouds, stained with the last embers of the dying sun, mirrored the sickness in the land below.
 
@@ -61,7 +61,7 @@ Aran shook his head. “There’s something waiting for us there.”
 
 That was enough.
 
-#### The Horror Within
+### The Horror Within
 
 Despite Aran’s warning, the group made their way into the village, weapons drawn, eyes darting to every doorway and shadow. The stench was unbearable—death, rot, and something worse, something that clung to the air like rusted iron on the tongue.
 
@@ -105,9 +105,7 @@ Torvin shook his head, his voice barely more than a whisper.
 
 “No one should go in there.”
 
-----------
-
-#### The Rust Rides
+### The Rust Rides
 
 The storm broke as night fell, rain beating against the land like a thousand whispered warnings. The group had camped beyond the village’s reach, hidden in the underbrush, but none of them truly rested.
 
@@ -149,7 +147,7 @@ It wasn’t for any outsider.
 
 It was for _him._
 
-#### The Survivor
+### The Survivor
 
 She was barely more than a shadow, darting between broken buildings, the rain turning her into a smear against the ruined village. But they saw her.
 
@@ -173,7 +171,7 @@ Then she stared at Torvin again, her eyes filled with something that was not qui
 
 “Leave,” she whispered. “You’ve doomed enough.”
 
-#### Through the Trees
+### Through the Trees
 
 They left the ruined village behind, but the Rust Brothers’ words followed them.
 
@@ -197,7 +195,7 @@ He collapsed, his vision flickering, his voice barely managing to croak a single
 
 “Troll.”
 
-#### Resting in the Shadow of Stone
+### Resting in the Shadow of Stone
 
 The troll did not move.
 
