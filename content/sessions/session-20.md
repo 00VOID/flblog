@@ -5,7 +5,7 @@ date: 2025-06-10
 layout: page.njk
 ---
 
-## Chapter: Echoes of the Deep
+## Echoes of the Deep
 
 The gentle lapping of the subterranean river against the sandbank was the only sound for a time, a counterpoint to the adventurers’ ragged breathing. They had rested in shifts, the oppressive darkness and the unknown weight of the earth above them making true sleep a fleeting luxury. Before them, on a slight rise of the bank, stood the crude altar they’d discovered: three squat, idol-like statues of amphibious humanoids, their bulging eyes staring blankly into the gloom. One clutched a miniature trident, another a tiny, verdigris-coated crown, the third an orb of some dull, grey stone. Around their webbed feet lay a scatter of offerings – dried, unidentifiable food, small animal bones, and other, less discernible detritus. These were the gods, or totems, of the cavern’s unseen denizens.
 
