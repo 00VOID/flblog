@@ -5,8 +5,6 @@ date: 2025-06-25
 layout: page.njk
 ---
 
-## The Labyrinth of Wisdom
-
 The stale air of the skull-lined ossuary still clung to their new ceremonial robes, but a fresh resolve settled over Torvin, Hearn, Gallivan, and Aran. The cryptic parchment hinting at "four directions" and "guided needles" had become their lodestar, promising passage to the Chapel of Blood’s Heart. With two compass-statues already located, their quest now centered on finding the remaining two.
 
 Exiting the macabre chamber, they turned left, advancing along the long corridor they had previously scouted. At its furthest end, the path diverged. Instead of the descent, they chose the room ahead, finding what appeared to be an ancient **study**. A dusty desk stood in one corner, and at the back, a raised platform bore three tall, imposing cupboards. The central one immediately drew their attention, marked by a distinct circular indentation.

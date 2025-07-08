@@ -5,7 +5,6 @@ date: 2025-05-27
 layout: page.njk
 ---
 
-
 ### Descent into the Labyrinth
 
 They descended once more into the labyrinthine caves beneath the keep, the rusty iron key found earlier clutched in Hyrne's hand. The tunnels were a damp, oppressive network, the air thick with the smell of wet stone and something else, something ancient and unsettling. They navigated by the flickering light of Torvin's torch, the shadows dancing around them like grasping specters.
