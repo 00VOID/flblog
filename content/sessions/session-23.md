@@ -15,7 +15,7 @@ Their respite, however, was short-lived. The first sign that the scouring had le
 
 As dusk settled, Gallivan’s attempt to make a proper camp failed. Pushing his luck, he tried again, but the effort backfired, unleashing a wave of misfortune that settled upon Aran in the form of a maddening lice infestation, leaving him unable to rest. In a scene that bordered on grim comedy, Torvin, freshly healed but still anxious, subjected Aran to a frantic "healing" by repeatedly dunking him in the freezing river until the parasites were washed away.
 
-Later that night, while Torvin kept a sleepless watch, Hearn slipped into the darkened woods. His hunt was successful, returning with a fox—three portions of precious meat and a pelt, a small victory in their desperate state.
+Later that night, while Torvin kept a sleepless watch, Hyrne slipped into the darkened woods. His hunt was successful, returning with a fox—three portions of precious meat and a pelt, a small victory in their desperate state.
 
 The next morning, they pressed on, following the river north. The idyllic peace was shattered when they spotted a misshapen wooden shield bobbing in the current, followed minutes later by a severed arm, leaving a pale trail of blood in the clear water. The grim discovery led them to a grim scene: a wide, marshy grassland littered with the bodies from a recent, savage battle.
 
@@ -25,7 +25,7 @@ Mortally wounded, the elf beckoned them closer. With his dying breath, he whispe
 
 "They have it... the heart-stone... Iridne. Zytera sees... the spider feels every tremor in its web. You... your scent... you reek of its lesser kin. Warn the others. The four rubies... Stanengist."
 
-As his life fled, a psychic clap of energy erupted from his body, slamming into the minds of the companions and plunging them into a shared, chaotic nightmare. They were assaulted by a montage of terrifying visions: a crumbling fortress called **Weatherstone**, where a skeletal king sat on a throne, his hand gripping a sword that pulsed with dark power; a misty, ghost-filled valley known as the **Vale of the Dead**, where a one-eyed giant wept in sorrow and a latent power promised the only hope of healing their fractured spirits; a dark, subterranean laboratory where the very beast that had scarred Hearn was born from a vat of gore; and finally, through the Redrunner's own eyes, they saw the twisted obsidian fortress of **Alderstone** and the monstrous, spider-legged sorcerer-god, **Zytera**. As the vision ended, her voice scraped across their minds, a promise and a threat:
+As his life fled, a psychic clap of energy erupted from his body, slamming into the minds of the companions and plunging them into a shared, chaotic nightmare. They were assaulted by a montage of terrifying visions: a crumbling fortress called **Weatherstone**, where a skeletal king sat on a throne, his hand gripping a sword that pulsed with dark power; a misty, ghost-filled valley known as the **Vale of the Dead**, where a one-eyed giant wept in sorrow and a latent power promised the only hope of healing their fractured spirits; a dark, subterranean laboratory where the very beast that had scarred Hyrne was born from a vat of gore; and finally, through the Redrunner's own eyes, they saw the twisted obsidian fortress of **Alderstone** and the monstrous, spider-legged sorcerer-god, **Zytera**. As the vision ended, her voice scraped across their minds, a promise and a threat:
 
 **"Little sparks. You extinguished my failed copy. Now you have my attention."**
 
